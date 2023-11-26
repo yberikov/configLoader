@@ -4,7 +4,7 @@ Config Loader is a Go package designed to simplify the loading of configuration 
 Usage
 Installation
 ```bash
-go get -u github.com/your-username/configLoader
+go get -u github.com/yberikov/configLoader
 ```
 
 yaml
